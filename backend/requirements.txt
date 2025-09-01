@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+flask_cors
+pytest
+flask-bcrypt
+flask-jwt-extended
